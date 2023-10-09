@@ -30,7 +30,7 @@ Se você deseja contribuir para este projeto, sinta-se à vontade para fazer um 
 
 ## Veja o Site
 
-Para acessar o site, [clique aqui](jvlr95.github.io) e explore o mundo da simplicidade tecnológica!
+Para acessar o site, [clique aqui](https://jvlr95.github.io) e explore o mundo da simplicidade tecnológica!
 
 Simplifique sua relação com a tecnologia. Seja minimalista.
 
